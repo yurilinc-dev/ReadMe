@@ -1,48 +1,74 @@
-# Yuri Lincoln
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/yurilinc-dev/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
+<h1 align="left">Hi, I'm Yuri Lincoln</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yurilinc-dev&color=yellow" alt="Profile views" /> </p>
 
-  Olá pessoal, eu me chamo Yuri Lincoln, um aventureiro digital em busca de conhecimento e desafios tecnológicos!
+- 🔥 Junior Web Developer
 
-## Sobre mim
+- 🔭 I’m currently working at [Pixeon](https://github.com/Pixeon).
 
-  Cursei Redes de Computadores pela UNINASSAU em 2016 e atualmente estou cursando Sistemas de Informações na Faculdade Estácio de Alagoas.
-
-  Ao longo da minha trajetória acadêmica, tive a oportunidade de atuar como aluno, monitor e auxiliar de disciplina em projetos relacionados ao Office 365 e redes. Durante essas experiências, pude desenvolver habilidades sólidas nessas áreas, além de aprimorar minha capacidade de trabalho em equipe e solução de problemas.
-
-  Tenho um interesse genuíno em tecnologias de programação e estou em constante busca por aprimoramento. Possuo conhecimentos básicos em HTML5, CSS3, JavaScript, NodeJS, ShellScript, PowerShell e Python, com foco em me tornar um Backend Developer. Estou sempre em busca de oportunidades para aplicar essas habilidades em projetos desafiadores e expandir meu conhecimento nessa área em rápida evolução.
-
-  Além disso, possuo conhecimentos fundamentais em Infraestrutura, Redes, CyberSecurity e SQL, que me proporcionam uma visão abrangente do cenário tecnológico. Sou curioso e estou sempre disposto a aprender novas tecnologias e práticas recomendadas, buscando me manter atualizado e acompanhar as tendências do setor.
-
-## Habilidades
-- HTML5
-- CSS3
-- JavaScript
-- Node.js
-- ShellScript
-- PowerShell
-- Python
-- Infraestrutura
-- Redes
-- CyberSecurity
-- SQL
-
-## Projetos
-
-  Aqui estão alguns dos projetos nos quais estou trabalhando atualmente ou que concluí recentemente:
-
-- Projeto 1
-- Projeto 2
-- Projeto 3
-
-  Fique à vontade para explorar meus repositórios para mais detalhes sobre esses projetos e outros trabalhos que realizei.
-
-## Contato
-
-  Você pode entrar em contato comigo através dos seguintes meios:
-
-- E-mail: yurilincoln.tech@gmail.com
-- LinkedIn: [yurilincoln](https://www.linkedin.com/in/yurilincoln/)
-- Twitter: [@yurilinc_](https://twitter.com/yurilinc_)
-
-Estou aberto a oportunidades interessantes e colaborações emocionantes. Vamos construir algo incrível juntos!
+- 💬 Learning about **JavaScript, HTML, CSS, SQL, Node.JS**
 
 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+<!--![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;-->
+<!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="yurilinc-dev's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="yurilinc-dev's most languages"/>
+</p>
+
+
+<br><br>
+
+## Contact
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/yurilinc-dev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-yurilinc-dev-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://twitter.com/yurilinc_" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-yurilinc_-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/yurilincoln" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-yurilincoln-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/yurilinc_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-yurilinc_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+
+</p>
+
+<!--
+
+<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+
+
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
