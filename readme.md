@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/yurilinc-dev/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Hi, I'm Yuri Lincoln</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurilinc-dev&color=yellow" alt="Profile views" /> </p>
 
@@ -8,8 +7,7 @@
 
 - 💬 Learning about **JavaScript, HTML, CSS, SQL, Node.JS**
 
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -24,7 +22,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 <!--![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;-->
 <!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -33,14 +31,13 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="yurilinc-dev's most languages"/>
 </p>
 
+<br>
 
-<br><br>
-
-## Contact
+## 🔗 Contact
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/yurilinc-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-yurilinc-dev-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-yurilincdev-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/yurilinc_" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-yurilinc_-05122A?style=flat&logo=twitter" alt="twitter"/>  
