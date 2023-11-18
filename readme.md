@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm Yuri Lincoln</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yurilinc-dev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
+- 🔥 Backend Developer
 
 - 🔭 I’m currently working at [Pixeon](https://github.com/Pixeon).
 
