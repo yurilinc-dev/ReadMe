@@ -26,7 +26,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="yurilinc-dev's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="yurilinc-dev's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="yurilinc-dev's most languages"/>
 </p>
 <br>
