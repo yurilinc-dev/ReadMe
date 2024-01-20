@@ -1,13 +1,22 @@
-<h1 align="left">Hi, I'm Yuri Lincoln</h1>
+Yuri Lincoln - Backend Developer 👨‍💻
+Welcome to my GitHub profile! I'm Yuri Lincoln, a passionate Backend Developer currently working at Pixeon. Here are a few things about me:
 
-- 🔥 Backend Developer
+🔥 Backend Developer: I specialize in backend development, crafting robust and efficient solutions.
 
-- 🔭 I’m currently working at [Pixeon](https://github.com/Pixeon).
+🔭 Current Work: I'm actively contributing to projects at Pixeon.
 
-- 💬 Learning about **JavaScript, HTML, CSS, SQL, Node.JS**
+💬 Learning Journey: I'm continuously expanding my knowledge in JavaScript, Node.JS, HTML, CSS, SQL, and more.
+
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas! Let's code and build amazing things together. 🚀
 
 <br>
+<br>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Yuri Lincoln's GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=radical" alt="Top Languages">
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -26,8 +35,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="yurilinc-dev's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="yurilinc-dev's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="yurilinc-dev's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="yurilinc-dev's most languages"/>
 </p>
 <br>
 
