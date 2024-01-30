@@ -35,13 +35,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&theme=vision-friendly-dark" alt="Yuri Lincoln's Stats"/>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilinc-dev&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</p>
-
 ## 🔗 Contact
 
 <p align="left">
