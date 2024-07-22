@@ -1,27 +1,24 @@
-# Yuri Lincoln - Backend Developer 👨‍💻
+# Yuri Lincoln - DevOps Enthusiast 👨‍💻
 
-Welcome to my GitHub profile! I'm Yuri Lincoln, a passionate Backend Developer currently working at Pixeon. Here are a few things about me:
+Welcome to my GitHub profile! I'm Yuri Lincoln, a passionate DevOps Enthusiast currently working at Pixeon. Here are a few things about me:
 
-## 🔥 Backend Developer
+## 🔥 DevOps Enthusiast
 
-I specialize in backend development, crafting robust and efficient solutions.
+I specialize in DevOps practices, crafting robust and efficient solutions, and ensuring seamless integration and delivery.
 
 ## 🔭 Current Work
 
-I'm actively contributing to projects at Pixeon.
+I'm actively contributing to projects at Pixeon, focusing on automation, continuous integration, and deployment.
 
 ## 💬 Learning Journey
 
-I'm continuously expanding my knowledge in JavaScript, Node.js, HTML, CSS, SQL, and more.
+I'm continuously expanding my knowledge in DevOps, Cloud, JavaScript, Node.js, HTML, CSS, SQL, and more.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas! Let's code and build amazing things together. 🚀
 
-<br>
-<br>
+[![roadmap.sh](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yurilinc-dev&show_icons=true&count_private=true&hide=stars&theme=radical" alt="Yuri Lincoln's GitHub Stats">
-</p>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,6 +31,9 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 
 ## 🔗 Contact
 
