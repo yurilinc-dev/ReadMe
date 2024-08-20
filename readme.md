@@ -1,26 +1,26 @@
-# Yuri Lincoln - DevOps Enthusiast 👨‍💻
+# Yuri Lincoln - Entusiasta de DevOps 👨‍💻
 
-Welcome to my GitHub profile! I'm Yuri Lincoln, a passionate DevOps Enthusiast currently working at Pixeon. Here are a few things about me:
+Bem-vindo ao meu perfil GitHub! Eu sou Yuri Lincoln, um entusiasta apaixonado por DevOps, atualmente trabalhando na Pixeon. Aqui estão algumas coisas sobre mim:
 
-## 🔥 DevOps Enthusiast
+## 🔥 Entusiasta de DevOps
 
-I specialize in DevOps practices, crafting robust and efficient solutions, and ensuring seamless integration and delivery.
+Eu me especializo em práticas de DevOps, criando soluções robustas e eficientes, e garantindo integração e entrega contínuas.
 
-## 🔭 Current Work
+## 🔭 Trabalho Atual
 
-I'm actively contributing to projects at Pixeon, focusing on automation, continuous integration, and deployment.
+Estou contribuindo ativamente para projetos na Pixeon, focando em automação, integração contínua e deployment.
 
-## 💬 Learning Journey
+## 💬 Jornada de Aprendizado
 
-I'm continuously expanding my knowledge in DevOps, Cloud, JavaScript, Node.js, HTML, CSS, SQL, and more.
+Estou continuamente expandindo meu conhecimento em DevOps, Cloud, JavaScript, Node.js, HTML, CSS, SQL, e mais.
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas! Let's code and build amazing things together. 🚀
+Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver perguntas ou ideias para colaboração! Vamos codar e construir coisas incríveis juntos. 🚀
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Stack de Tecnologia
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
@@ -35,8 +35,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
 
-
-## 🔗 Contact
+## 🔗 Contato
 
 <p align="left">
   <a href="https://codepen.io/yurilinc-dev" target="_blank">
