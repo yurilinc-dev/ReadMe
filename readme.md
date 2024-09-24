@@ -1,48 +1,44 @@
-# Yuri Lincoln - Entusiasta de DevOps 👨‍💻
+# DevOps Enthusiast | Continuous Improvement & Automation
 
-Bem-vindo ao meu perfil GitHub! Eu sou Yuri Lincoln, um entusiasta apaixonado por DevOps, atualmente trabalhando na Pixeon. Aqui estão algumas coisas sobre mim:
+Bem-vindo ao meu perfil no GitHub! Sou apaixonado por DevOps e atualmente trabalho na Pixeon, buscando sempre novas soluções tecnológicas e melhorias contínuas. Aqui você encontrará um pouco sobre minha experiência e as ferramentas que utilizo no dia a dia.
 
-## 🔥 Entusiasta de DevOps
+### Sobre Mim
 
-Eu me especializo em práticas de DevOps, criando soluções robustas e eficientes, e garantindo integração e entrega contínuas.
+Estou constantemente aperfeiçoando boas práticas de DevOps, desenvolvendo soluções eficientes e promovendo a integração e entrega contínua (CI/CD) em ambientes dinâmicos e complexos. Minha atuação envolve suporte técnico, customizações, reimplantações e automação de processos essenciais para aumentar a eficiência dos times de desenvolvimento e operações.
 
-## 🔭 Trabalho Atual
+### Competências
 
-Estou contribuindo ativamente para projetos na Pixeon, focando em automação, integração contínua e deployment.
+Sou versado em uma ampla gama de tecnologias e ferramentas que suportam o ecossistema DevOps, incluindo ambientes de nuvem, containers, orquestração e automação.
 
-## 💬 Jornada de Aprendizado
-
-Estou continuamente expandindo meu conhecimento em DevOps, Cloud, JavaScript, Node.js, HTML, CSS, SQL, e mais.
-
-Sinta-se à vontade para explorar meus repositórios e não hesite em entrar em contato se tiver perguntas ou ideias para colaboração! Vamos codar e construir coisas incríveis juntos. 🚀
-
-[![roadmap.sh](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
+[![DevOps Roadmap](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
 
 <br>
 
-## 🛠 &nbsp;Stack de Tecnologia
+## Tecnologias que Domino
 
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)
+![Vagrant](https://img.shields.io/badge/-Vagrant-05122A?style=flat&logo=vagrant)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-05122A?style=flat&logo=gnu-bash)
 
-## 🔗 Contato
+<br>
 
-<p align="left">
-  <a href="https://codepen.io/yurilinc-dev" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-yurilincdev-05122A?style=flat&logo=codepen" alt="CodePen"/>
-  </a>
-  <a href="https://twitter.com/yurilinc_" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-yurilinc_-05122A?style=flat&logo=twitter" alt="Twitter"/>  
+### Entre em Contato
+
+Sinta-se à vontade para me contatar ou seguir minhas redes sociais abaixo. Estou sempre disposto a colaborar e trocar ideias sobre DevOps e automação!
+
+<p align="center">
+  <a href="https://x.com/yurilinc_" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-yurilinc_-05122A?style=flat&logo=x" alt="X (Twitter)"/>  
   </a>
   <a href="https://linkedin.com/in/yurilincoln" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-yurilincoln-05122A?style=flat&logo=linkedin" alt="LinkedIn"/>
