@@ -1,22 +1,15 @@
-# DevOps Enthusiast | Continuous Improvement & Automation
+# DevOps Enthusiast
 
-Bem-vindo ao meu perfil no GitHub! Sou apaixonado por DevOps e atualmente trabalho na Pixeon, buscando sempre novas soluções tecnológicas e melhorias contínuas. Aqui você encontrará um pouco sobre minha experiência e as ferramentas que utilizo no dia a dia.
+Estou constantemente aperfeiçoando boas práticas de DevOps. Minha atuação envolve assistência, implantações e automação de processos essenciais para aumentar a eficiência dos times de desenvolvimento e operações.
 
-### Sobre Mim
-
-Estou constantemente aperfeiçoando boas práticas de DevOps, desenvolvendo soluções eficientes e promovendo a integração e entrega contínua (CI/CD) em ambientes dinâmicos e complexos. Minha atuação envolve suporte técnico, customizações, reimplantações e automação de processos essenciais para aumentar a eficiência dos times de desenvolvimento e operações.
-
-### Competências
-
-Sou versado em uma ampla gama de tecnologias e ferramentas que suportam o ecossistema DevOps, incluindo ambientes de nuvem, containers, orquestração e automação.
+Conhecendo novas tecnologias e ferramentas que compõem o ecossistema DevOps.
 
 [![DevOps Roadmap](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
 
-<br>
+## Tecnologias
 
-## Tecnologias que Domino
-
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=nuvem)
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)
@@ -34,7 +27,7 @@ Sou versado em uma ampla gama de tecnologias e ferramentas que suportam o ecossi
 
 ### Entre em Contato
 
-Sinta-se à vontade para me contatar ou seguir minhas redes sociais abaixo. Estou sempre disposto a colaborar e trocar ideias sobre DevOps e automação!
+Sinta-se à vontade para me contatar ou seguir minhas redes sociais abaixo. Estou sempre disposto a colaborar e trocar ideias sobre DevOps e projetos open-sources.
 
 <p align="center">
   <a href="https://x.com/yurilinc_" target="_blank">
