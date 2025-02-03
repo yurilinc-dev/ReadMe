@@ -4,8 +4,6 @@ Estou constantemente aperfeiçoando boas práticas de DevOps. Minha atuação en
 
 Conhecendo novas tecnologias e ferramentas que compõem o ecossistema DevOps.
 
-[![DevOps Roadmap](https://roadmap.sh/card/wide/64c5560c8bda28d991430dab?variant=dark&roadmaps=devops)](https://roadmap.sh)
-
 ## Tecnologias
 
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=nuvem)
